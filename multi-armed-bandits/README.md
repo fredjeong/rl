@@ -1,7 +1,7 @@
 # Multi-armed Bandits
 
 1. [Introduction](./introduction.md)
-2. [A $k$-armed Bandit Problem](./k-armed-bandit-problem.md)
+2. [A k-armed Bandit Problem](./k-armed-bandit-problem.md)
 3. [Action-value Methods](./action-value-methods.md)
 4. [The 10-armed Testbed](./the-10-armed-testbed.md)
 5. [Incremental Implementation](./incremental-implementation.md)
