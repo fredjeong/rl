@@ -17,7 +17,7 @@ Q_t(a)
 \end{align*}
 $$
 
-where $\mathbb{1}_{\text{predicate}}$ is an indicator function. If the denominator is zero, that is, if the action has not been chosen before, then we instead define $Q_t(a)$ as some default value, such as 0. By the law of large numbers, we have $Q_t(a)\to q_*(a)$ as the denominator goes to infinity.
+where $\mathbb{1}_{\rm{predicate}}$ is an indicator function. If the denominator is zero, that is, if the action has not been chosen before, then we instead define $Q_t(a)$ as some default value, such as 0. By the law of large numbers, we have $Q_t(a)\to q_*(a)$ as the denominator goes to infinity.
 
 The simplest action selection rule is, as mentioned in the previous section, the greedy algorithm. We select the action with the highest estimated value. That is,
 
