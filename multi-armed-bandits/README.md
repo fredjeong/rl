@@ -6,6 +6,5 @@
 4. [The 10-armed Testbed](./the-10-armed-testbed.ipynb)
 5. [Tracking a Nonstationary Problem](./tracking-a-nonstationary-problem.md)
 6. [Optimistic Initial Values](./optimistic-initial-values.ipynb)
-7. [Upper-Confidence-Bound Action Selection](./upper-confidence-bound-action-selection.md)
+7. [Upper-Confidence-Bound Action Selection](./upper-confidence-bound-action-selection.ipynb)
 8. [Gradient Bandit Algorithms](./gradient-bandit-algorithms.ipynb)
-9. [Associative Search (Contextual Bandits)](./associative-search.md)
