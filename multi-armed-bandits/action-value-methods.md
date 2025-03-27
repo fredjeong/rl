@@ -28,3 +28,7 @@ $$
 If there is more than one greedy action, then we randomly select one among them.  Note that it always exploits current knowledge to maximise immediate reward. 
 
 An alternative is to behave greedily most of the time, but select randomly from among all the actions with some probability $\epsilon$. This is called $\epsilon$-greedy method. In the limit as the number of steps increases, every action will be sampled an infinite number of times, thus ensuring that all the $Q_t(a)$ converge to $q_*(a)$.
+
+$$
+\frac{\text{sample text}}{2}
+$$
